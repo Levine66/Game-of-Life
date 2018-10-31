@@ -1,5 +1,2 @@
-master :update readme
-
-master :update readme 
-
- newbranch
+Hello World
+It 's my first time to ues Git by pycharm
